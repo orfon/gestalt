@@ -1,0 +1,10 @@
+{
+   "bar": true,
+   "baz": {
+      "foo": {
+         "tra": "la"
+      },
+      "lo": false
+   },
+   "what": 1234
+}

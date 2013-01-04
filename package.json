@@ -1,0 +1,22 @@
+{
+    "name": "gestalt",
+    "version": "0.1.0",
+    "description": "Configuration managment for RingoJs",
+    "keywords": ["config"],
+    "homepage": "https://github.com/oberhamsi/gestalt",
+    "maintainers": [{
+            "name": "Simon Oberhammer",
+            "email": "simon@nekapuzer.at"
+        }],
+    "contributors": [],
+    "dependencies": {},
+    "licenses": [{
+        "type": "Apache License Version 2.0",
+        "url": "http://www.apache.org/licenses/"
+    }],
+    "repositories": [],
+    "engines": {
+        "ringojs": ">= 0.8"
+    },
+    "main": "./lib/main.js"
+}
