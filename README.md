@@ -3,7 +3,8 @@ Configuration library for Ringojs
 Overview
 ==========
 
-  * supports loading configs from json, system arguments and java properties files
+  * supports loading configs from json, modules and java properties files
+     * TBD: system arguments, environment
   * merge multiple config sources
   * plenty of unit tests
 
