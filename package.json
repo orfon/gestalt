@@ -8,15 +8,25 @@
             "name": "Simon Oberhammer",
             "email": "simon@nekapuzer.at"
         }],
-    "contributors": [],
+    "contributors": [
+        {
+            "name": "Simon Oberhammer",
+            "email": "simon@nekapuzer.at"
+        }
+    ],
     "dependencies": {},
     "licenses": [{
         "type": "Apache License Version 2.0",
         "url": "http://www.apache.org/licenses/"
     }],
-    "repositories": [],
+    "repositories": [
+    {
+        "type": "git",
+        "url": "https://github.com/oberhamsi/gestalt.git"
+    }
+    ],
     "engines": {
-        "ringojs": ">= 0.8"
+        "ringojs": "0.9"
     },
     "main": "./lib/main.js"
 }
